@@ -1,5 +1,7 @@
 ![SSC Logo](images/logos/SSC_logo.png)
 
+> **This repository has moved.** The SSC Appointment Scheduling API spec now lives at [dsdcapis/full-truckload](https://github.com/dsdcapis/full-truckload/tree/main/api-specs/ssc). Please update your bookmarks, links, and integrations to reference the new location; this repository is retained for historical reference only and is no longer updated.
+
 # SSC - Scheduling Standards Consortium
 
 Convoy, J.B. Hunt and Uber Freight formed the Scheduling Standards Consortium (SSC) to simplify the integration of systems across the fragmented ecosystem between shippers, carriers and intermediaries and create a more efficient appointment scheduling process.
